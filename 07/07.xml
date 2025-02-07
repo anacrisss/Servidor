@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE registro SYSTEM "07.dtd">
+
+<registro>
+    <estudiante>
+        <nombre></nombre>
+        <matricula></matricula>
+        <curso></curso>
+        <edad></edad>
+    </estudiante>
+
+</registro>

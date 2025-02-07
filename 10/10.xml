@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="10.xsd" type="application/xml-dtd"?>
+<!DOCTYPE tienda SYSTEM "10.xsd">
+
+<tienda>
+    <producto>
+        <nombre></nombre>
+        <categoria>
+            <camiseta></camiseta>
+            <pantalones></pantalones>
+            <accesorios></accesorios>
+        </categoria>
+        <precio></precio>
+        <talla></talla>
+        <stock></stock>
+
+    </producto>
+
+
+</tienda>

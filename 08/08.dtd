@@ -1,0 +1,9 @@
+<!ELEMENT inventario (producto+)>
+
+<!ELEMENT producto (nombre, codigo, precio, stock)>
+<!ATTLIST producto 
+    id ID #REQUIRED>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT codigo (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT stock (#PCDATA)>

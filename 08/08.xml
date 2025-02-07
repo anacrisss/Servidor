@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="08.dtd" type="application/xml-dtd"?>
+<!DOCTYPE inventario SYSTEM "08.dtd">
+
+<inventario>
+    <producto id="001">
+        <nombre>Smartphone</nombre>
+        <codigo>SP12345</codigo>
+        <precio>299.99€</precio>
+        <stock>50</stock>
+    </producto>
+
+    <producto id="002">
+        <nombre>Tablet</nombre>
+        <codigo>TB98765</codigo>
+        <precio>199.99€</precio>
+        <stock>30</stock>
+    </producto>
+
+    <producto id="003">
+        <nombre>Auriculares</nombre>
+        <codigo>AU65432</codigo>
+        <precio>49.99€</precio>
+        <stock>120</stock>
+    </producto>
+
+
+</inventario>

@@ -1,0 +1,6 @@
+<!ELEMENT registro (estudiante+)>
+<!ELEMENT estado (titulo, autor, anio, genero)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT matricula (#PCDATA)>
+<!ELEMENT curso (#PCDATA)>
+<!ELEMENT edad (#PCDATA)>

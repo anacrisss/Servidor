@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-model href="06.dtd" type="application/xml-dtd"?> -->
+<!DOCTYPE biblioteca SYSTEM "06.dtd">
+
+<biblioteca>
+    <libro>
+        <titulo>1984</titulo>
+        <autor>George Orwell</autor>
+        <anio>1949</anio>
+        <genero>Ficción</genero>
+    </libro>
+
+    <libro>
+        <titulo>Una breve historia del tiempo</titulo>
+        <autor>Stephen Hawking</autor>
+        <anio>1988</anio>
+        <genero>Ciencia</genero>
+    </libro>
+
+    <libro>
+        <titulo>El arte de la guerra</titulo>
+        <autor>Sun Tzu</autor>
+        <anio>500 a.C.</anio>
+        <genero>Historia</genero>
+    </libro>
+</biblioteca>
